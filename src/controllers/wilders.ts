@@ -1,5 +1,5 @@
 import { NextFunction, Request, Response } from "express";
-import WilderModel, {IWilder} from'./../models/Wilder';
+import WilderModel from'./../models/Wilder';
 
 const wilderController = {
 
